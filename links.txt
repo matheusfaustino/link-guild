@@ -5,3 +5,9 @@ http://scottchacon.com/2011/08/31/github-flow.html
 http://ocramius.github.io/blog/lazy-property-automatic-property-initialization/
 http://bitsofco.de/styling-broken-images/
 http://gitreal.codeschool.com/levels/1
+http://blog.alejandrocelaya.com/2015/12/31/improve-dependency-injection-in-php-apps-with-zend-framework-plugin-managers/
+http://www.sitepoint.com/how-to-build-your-own-dependency-injection-container/?tw
+http://ocramius.github.io/blog/fluent-interfaces-are-evil/
+http://pt.slideshare.net/aperic/symfony2-and-angularjs
+http://it-ebooks.info/book/6888/
+https://www.youtube.com/watch?v=1qlLUf7KtAw&index=18&list=PLkA60AVN3hh94tm0_6_rGxamkuHOLr30l
