@@ -11,3 +11,15 @@ http://ocramius.github.io/blog/fluent-interfaces-are-evil/
 http://pt.slideshare.net/aperic/symfony2-and-angularjs
 http://it-ebooks.info/book/6888/
 https://www.youtube.com/watch?v=1qlLUf7KtAw&index=18&list=PLkA60AVN3hh94tm0_6_rGxamkuHOLr30l
+http://piotrpasich.com/ant-composer-and-code-quality-tools/
+http://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction
+https://m.signalvnoise.com/software-has-bugs-this-is-normal-f64761a262ca#.j3ktyxvco
+https://github.com/filp/whoops
+http://ocramius.github.io/blog/zf2-and-symfony-service-proxies-with-doctrine-proxies/
+https://guides.github.com/
+https://pfelix.wordpress.com/2015/12/19/how-to-fail-in-http-apis/
+http://it-ebooks.info/book/6864/
+http://blog.peachpie.io/2016/03/introducing-peachpie-php-compiler-for.html
+https://serversforhackers.com/series/mysql
+http://ocramius.github.io/blog/lazy-property-automatic-property-initialization/
+https://github.com/phpro/grumphp
