@@ -23,3 +23,12 @@ http://blog.peachpie.io/2016/03/introducing-peachpie-php-compiler-for.html
 https://serversforhackers.com/series/mysql
 http://ocramius.github.io/blog/lazy-property-automatic-property-initialization/
 https://github.com/phpro/grumphp
+https://nomadphp.com/2016/02/22/event-driven-architecture-for-microservices/
+http://eddmann.com/posts/mapping-filtering-and-reducing-in-php/
+https://akrabat.com/testing-slim-framework-actions/
+http://imasters.com.br/linguagens/php/trabalhando-com-ionic-e-php-backends-depuracao-remota-com-php7-e-xdebug-em-dispositivos-reais/?trace=1519021197&source
+http://www.douglaspasqua.com/2016/02/07/rest-transferindo-dados-usando-php-e-silex/
+http://www.programmableweb.com/news/alienating-developers-and-end-users-are-iot-vendors-headed-trainwreck/analysis/2016/03/16
+http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/
+http://marketing.intracto.com/paying-technical-debt-how-to-rescue-legacy-code-through-refactoring
+http://verraes.net/2016/02/type-safety-and-money/
