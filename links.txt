@@ -104,3 +104,4 @@ http://raml.org/
 https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d#.9llxwsrej
 https://github.com/marcelgsantos/learning-oop-in-php
 http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
+http://www.vimamin.com/lessons
