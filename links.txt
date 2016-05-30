@@ -110,3 +110,4 @@ https://www.youtube.com/watch?v=4cVZvoFGJTU
 http://welcometothebundle.com/domain-driven-design-and-symfony-for-simple-app/
 https://www.sitepoint.com/finding-differences-in-images-with-php/
 https://tools.ietf.org/html/rfc7231
+https://joind.in/event/phpserbia-conference-2016/schedule/list
