@@ -113,3 +113,4 @@ https://tools.ietf.org/html/rfc7231
 https://joind.in/event/phpserbia-conference-2016/schedule/list
 https://blog.8thlight.com/uncle-bob/2012/12/19/Three-Paradigms.html
 http://blog.cleancoder.com/uncle-bob/2014/11/24/FPvsOO.html
+https://blog.frankdejonge.nl/finally-file-streams-and-deferred-execution-in-php/
