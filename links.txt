@@ -119,3 +119,4 @@ http://imasters.com.br/desenvolvimento/utilizando-python-pra-postar-mensagens-co
 https://science.mozilla.org/projects
 https://qafoo.com/blog/085_how_to_refactor_without_breaking.html
 http://www.dwmkerr.com/learn-docker-by-building-a-microservice/
+http://jstherightway.org/
