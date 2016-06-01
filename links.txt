@@ -116,3 +116,4 @@ http://blog.cleancoder.com/uncle-bob/2014/11/24/FPvsOO.html
 https://blog.frankdejonge.nl/finally-file-streams-and-deferred-execution-in-php/
 https://poser.pugx.org/
 http://imasters.com.br/desenvolvimento/utilizando-python-pra-postar-mensagens-com-fotos-no-twitter/
+https://science.mozilla.org/projects
