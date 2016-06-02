@@ -120,3 +120,4 @@ https://science.mozilla.org/projects
 https://qafoo.com/blog/085_how_to_refactor_without_breaking.html
 http://www.dwmkerr.com/learn-docker-by-building-a-microservice/
 http://jstherightway.org/
+https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.y2vdf2lxu
