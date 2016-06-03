@@ -1,4 +1,3 @@
-https://www.eventials.com/locaweb/events/5o-seminario-locaweb-phpsp/
 http://learninglaravel.net/upcoming-changes-in-php-71
 http://jackmcdade.com/blog/why-i-play-video-games
 http://scottchacon.com/2011/08/31/github-flow.html
