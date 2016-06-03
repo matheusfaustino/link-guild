@@ -122,3 +122,4 @@ http://jstherightway.org/
 https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.y2vdf2lxu
 http://alistapart.com/article/getoutbindingsituations
 http://developers.redhat.com/blog/2016/04/27/rest-and-microservices-breaking-down-the-monolith-step-by-asynchronous-step/
+https://www.linux.com/blog/rise-deep-learning-tech-industry
