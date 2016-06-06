@@ -123,3 +123,4 @@ http://alistapart.com/article/getoutbindingsituations
 http://developers.redhat.com/blog/2016/04/27/rest-and-microservices-breaking-down-the-monolith-step-by-asynchronous-step/
 https://www.linux.com/blog/rise-deep-learning-tech-industry
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+https://php.libhunt.com/
