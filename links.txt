@@ -1,4 +1,3 @@
-http://jackmcdade.com/blog/why-i-play-video-games
 http://scottchacon.com/2011/08/31/github-flow.html
 http://ocramius.github.io/blog/lazy-property-automatic-property-initialization/
 http://bitsofco.de/styling-broken-images/
