@@ -127,3 +127,4 @@ https://php.libhunt.com/
 http://www.phpspec.net/en/stable/
 https://mattstauffer.co/blog/things-i-didnt-know-laravel-could-do
 http://www.diegobrocanelli.com.br/php/php-codesniffer/
+https://github.com/domnikl/DesignPatternsPHP
