@@ -124,3 +124,4 @@ http://developers.redhat.com/blog/2016/04/27/rest-and-microservices-breaking-dow
 https://www.linux.com/blog/rise-deep-learning-tech-industry
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 https://php.libhunt.com/
+http://www.phpspec.net/en/stable/
