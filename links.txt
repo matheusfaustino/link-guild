@@ -125,5 +125,5 @@ https://www.linux.com/blog/rise-deep-learning-tech-industry
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 https://php.libhunt.com/
 http://www.phpspec.net/en/stable/
-https://mattstauffer.co/blog/things-i-didnt-know-laravel-could-do?utm_source=twitter&utm_medium=social&utm_campaign=tweetPosts
+https://mattstauffer.co/blog/things-i-didnt-know-laravel-could-do
 http://www.diegobrocanelli.com.br/php/php-codesniffer/
