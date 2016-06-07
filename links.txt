@@ -127,3 +127,4 @@ http://www.diegobrocanelli.com.br/php/php-codesniffer/
 https://github.com/domnikl/DesignPatternsPHP
 https://www.udacity.com/course/deep-learning--ud730
 http://juristr.com/blog/2016/06/ng2-getting-started-for-beginners/
+http://www.jakowicz.com/category/design-patterns/page/4/
