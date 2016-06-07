@@ -1,4 +1,3 @@
-http://ocramius.github.io/blog/lazy-property-automatic-property-initialization/
 http://bitsofco.de/styling-broken-images/
 http://gitreal.codeschool.com/levels/1
 http://www.slideshare.net/rdohms/writing-code-that-lasts-or-writing-code-you-wont-hate-tomorrow-phpsrb16
