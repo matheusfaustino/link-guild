@@ -1,4 +1,3 @@
-http://blog.alejandrocelaya.com/2015/12/31/improve-dependency-injection-in-php-apps-with-zend-framework-plugin-managers/
 http://www.sitepoint.com/how-to-build-your-own-dependency-injection-container/?tw
 http://ocramius.github.io/blog/fluent-interfaces-are-evil/
 http://pt.slideshare.net/aperic/symfony2-and-angularjs
