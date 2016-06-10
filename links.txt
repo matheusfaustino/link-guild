@@ -131,3 +131,4 @@ https://www.youtube.com/watch?v=3dXQxSI3XDY&list=PLOU2XLYxmsILe6_eGvDN3GyiodoV3q
 https://www.linux.com/news/3-emerging-open-source-data-analytics-tools-beyond-apache-spark
 http://www.capitalone.io/blog/delivering-microservices-for-enterprise-with-devops/
 http://www.nextplatform.com/2016/05/31/age-gpu-upon-us/
+http://squizlabs.github.io/PHP_CodeSniffer/analysis/index.html
