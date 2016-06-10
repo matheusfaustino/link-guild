@@ -133,3 +133,4 @@ https://www.linux.com/news/3-emerging-open-source-data-analytics-tools-beyond-ap
 http://www.capitalone.io/blog/delivering-microservices-for-enterprise-with-devops/
 http://www.nextplatform.com/2016/05/31/age-gpu-upon-us/
 http://squizlabs.github.io/PHP_CodeSniffer/analysis/index.html
+http://logz.io/blog/microservices-vs-monolithic-architecture/
