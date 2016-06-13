@@ -134,3 +134,4 @@ http://logz.io/blog/microservices-vs-monolithic-architecture/
 https://www.sitepoint.com/localization-demystified-understanding-php-intl/
 https://www.mpscholten.de/software-engineering/2016/05/21/accidental-complexity-caused-by-service-containers-in-the-php-world.html
 https://www.toptal.com/php/php-testing-with-codeception
+http://os.phil-opp.com/
