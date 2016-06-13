@@ -135,3 +135,4 @@ http://www.nextplatform.com/2016/05/31/age-gpu-upon-us/
 http://squizlabs.github.io/PHP_CodeSniffer/analysis/index.html
 http://logz.io/blog/microservices-vs-monolithic-architecture/
 https://www.sitepoint.com/localization-demystified-understanding-php-intl/
+https://www.mpscholten.de/software-engineering/2016/05/21/accidental-complexity-caused-by-service-containers-in-the-php-world.html
