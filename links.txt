@@ -135,3 +135,4 @@ https://www.mpscholten.de/software-engineering/2016/05/21/accidental-complexity-
 https://www.toptal.com/php/php-testing-with-codeception
 http://os.phil-opp.com/
 https://github.com/nahid/talk
+http://imasters.com.br/desenvolvimento/programacao-funcional-em-javascript-desconstruindo-o-pareto-js/
