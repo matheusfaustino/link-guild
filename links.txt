@@ -1,4 +1,4 @@
-http://it-ebooks.info/book/6888/
+
 https://www.youtube.com/watch?v=1qlLUf7KtAw&index=18&list=PLkA60AVN3hh94tm0_6_rGxamkuHOLr30l
 http://piotrpasich.com/ant-composer-and-code-quality-tools/
 http://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction
