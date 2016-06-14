@@ -136,3 +136,4 @@ https://www.toptal.com/php/php-testing-with-codeception
 http://os.phil-opp.com/
 https://github.com/nahid/talk
 http://imasters.com.br/desenvolvimento/programacao-funcional-em-javascript-desconstruindo-o-pareto-js/
+http://imasters.com.br/front-end/javascript/entendendo-programacao-funcional-em-javascript-de-uma-vez/
