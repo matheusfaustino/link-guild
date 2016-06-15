@@ -134,3 +134,4 @@ http://os.phil-opp.com/
 https://github.com/nahid/talk
 http://imasters.com.br/desenvolvimento/programacao-funcional-em-javascript-desconstruindo-o-pareto-js/
 http://imasters.com.br/front-end/javascript/entendendo-programacao-funcional-em-javascript-de-uma-vez/
+http://dev-random.net/linux-lockfile-explained-how-to-use-them-the-easy-or-hard-way/
