@@ -1,5 +1,6 @@
 http://piotrpasich.com/ant-composer-and-code-quality-tools/
 http://php.net/manual/pt_BR/functions.anonymous.php
+http://php.net/manual/en/language.oop5.anonymous.php
 http://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction
 https://m.signalvnoise.com/software-has-bugs-this-is-normal-f64761a262ca#.j3ktyxvco
 https://github.com/filp/whoops
