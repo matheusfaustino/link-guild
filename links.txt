@@ -120,6 +120,7 @@ https://www.udacity.com/course/deep-learning--ud730
 http://juristr.com/blog/2016/06/ng2-getting-started-for-beginners/
 http://www.jakowicz.com/category/design-patterns/page/4/
 http://tk.talesoft.io/2016/06/06/php-generators-a-guide-and-tutorial/
+https://github.com/Anahkiasen/underscore-php
 http://linux-audit.com/web-changes-with-http2-performance-and-security/
 https://www.youtube.com/watch?v=3dXQxSI3XDY&list=PLOU2XLYxmsILe6_eGvDN3GyiodoV3qNSC&index=179
 https://www.linux.com/news/3-emerging-open-source-data-analytics-tools-beyond-apache-spark
