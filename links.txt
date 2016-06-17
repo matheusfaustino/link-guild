@@ -1,4 +1,3 @@
-https://m.signalvnoise.com/software-has-bugs-this-is-normal-f64761a262ca#.j3ktyxvco
 https://github.com/filp/whoops
 http://ocramius.github.io/blog/zf2-and-symfony-service-proxies-with-doctrine-proxies/
 https://guides.github.com/
