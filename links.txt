@@ -136,3 +136,4 @@ http://imasters.com.br/front-end/javascript/entendendo-programacao-funcional-em-
 http://dev-random.net/linux-lockfile-explained-how-to-use-them-the-easy-or-hard-way/
 https://laravelista.com/satis-composer-repository-for-your-private-packages/
 https://github.com/spatie/string
+http://logansbailey.com/the-confusing-thing-about-guzzles-response-object
