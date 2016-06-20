@@ -135,3 +135,4 @@ https://github.com/spatie/string
 http://logansbailey.com/the-confusing-thing-about-guzzles-response-object
 https://viccherubini.com/2016/06/writing-functional-tests-for-services-in-symfony
 https://www.symfony.fi/entry/symfony-and-jwt-json-web-token
+https://www.sitepoint.com/your-own-custom-annotations/
