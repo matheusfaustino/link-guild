@@ -137,3 +137,4 @@ https://viccherubini.com/2016/06/writing-functional-tests-for-services-in-symfon
 https://www.symfony.fi/entry/symfony-and-jwt-json-web-token
 https://www.sitepoint.com/your-own-custom-annotations/
 https://float-middle.com/json-web-tokens-jwt-vs-sessions/
+https://www.reddit.com/r/PHP/comments/4otwxy/hpkp_builder_easily_add_http_publickeypinning/
