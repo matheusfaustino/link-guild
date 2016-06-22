@@ -1,4 +1,3 @@
-https://github.com/phpro/grumphp
 https://nomadphp.com/2016/02/22/event-driven-architecture-for-microservices/
 http://eddmann.com/posts/mapping-filtering-and-reducing-in-php/
 https://akrabat.com/testing-slim-framework-actions/
