@@ -1,4 +1,3 @@
-https://serversforhackers.com/series/mysql
 http://ocramius.github.io/blog/lazy-property-automatic-property-initialization/
 https://github.com/phpro/grumphp
 https://nomadphp.com/2016/02/22/event-driven-architecture-for-microservices/
