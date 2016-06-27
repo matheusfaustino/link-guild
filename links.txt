@@ -1,4 +1,3 @@
-http://eddmann.com/posts/mapping-filtering-and-reducing-in-php/
 https://akrabat.com/testing-slim-framework-actions/
 http://imasters.com.br/linguagens/php/trabalhando-com-ionic-e-php-backends-depuracao-remota-com-php7-e-xdebug-em-dispositivos-reais/?trace=1519021197&source
 http://www.douglaspasqua.com/2016/02/07/rest-transferindo-dados-usando-php-e-silex/
