@@ -132,3 +132,4 @@ https://www.reddit.com/r/PHP/comments/4otwxy/hpkp_builder_easily_add_http_public
 http://phpden.info/Bloom-filters-in-PHP
 https://reisraff.github.io/phulp/dist/#!/home
 http://fr.slideshare.net/jpauli/php7-extensions-workshop
+https://www.youtube.com/watch?v=Tvj1fwLE9V8
