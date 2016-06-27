@@ -1,4 +1,3 @@
-http://imasters.com.br/linguagens/php/trabalhando-com-ionic-e-php-backends-depuracao-remota-com-php7-e-xdebug-em-dispositivos-reais/?trace=1519021197&source
 http://www.douglaspasqua.com/2016/02/07/rest-transferindo-dados-usando-php-e-silex/
 http://www.programmableweb.com/news/alienating-developers-and-end-users-are-iot-vendors-headed-trainwreck/analysis/2016/03/16
 http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/
