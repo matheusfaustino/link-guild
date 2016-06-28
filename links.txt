@@ -132,3 +132,4 @@ http://phpden.info/Bloom-filters-in-PHP
 https://reisraff.github.io/phulp/dist/#!/home
 http://fr.slideshare.net/jpauli/php7-extensions-workshop
 https://www.youtube.com/watch?v=Tvj1fwLE9V8
+http://www.thetestroom.com/git-conflict-tutorial/
