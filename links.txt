@@ -131,3 +131,4 @@ https://reisraff.github.io/phulp/dist/#!/home
 http://fr.slideshare.net/jpauli/php7-extensions-workshop
 https://www.youtube.com/watch?v=Tvj1fwLE9V8
 http://www.thetestroom.com/git-conflict-tutorial/
+http://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext
