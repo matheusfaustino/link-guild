@@ -1,4 +1,3 @@
-http://marketing.intracto.com/paying-technical-debt-how-to-rescue-legacy-code-through-refactoring
 http://verraes.net/2016/02/type-safety-and-money/
 http://www.slideshare.net/michieltcs/building-and-deploying-php-applications-with-phing
 http://www.sitepoint.com/drunk-with-the-power-of-composer-plugins/
