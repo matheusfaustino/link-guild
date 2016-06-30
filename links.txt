@@ -1,4 +1,3 @@
-http://www.sitepoint.com/drunk-with-the-power-of-composer-plugins/
 http://chrismm.com/blog/how-to-reduce-the-cognitive-load-of-your-code/
 https://blog.wyrihaximus.net/2015/11/reactphp-http-client/
 http://marcjschmidt.de/blog/2014/02/08/php-high-performance.html
