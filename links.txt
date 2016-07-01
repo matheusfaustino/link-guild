@@ -1,4 +1,3 @@
-https://blog.wyrihaximus.net/2015/11/reactphp-http-client/
 http://marcjschmidt.de/blog/2014/02/08/php-high-performance.html
 https://youtu.be/J6uWO0XvHHc
 http://marcaube.ca/2015/05/specifications
