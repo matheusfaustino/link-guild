@@ -1,4 +1,3 @@
-http://marcjschmidt.de/blog/2014/02/08/php-high-performance.html
 https://youtu.be/J6uWO0XvHHc
 http://marcaube.ca/2015/05/specifications
 https://developers.googleblog.com/2016/03/introducing-new-developer-show-machine.html
