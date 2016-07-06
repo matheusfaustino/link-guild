@@ -123,3 +123,4 @@ http://www.thetestroom.com/git-conflict-tutorial/
 http://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext
 https://www.sitepoint.com/disco-with-frameworks-and-design-patterns-a-fresh-look-at-dependency-injection/
 http://blog.intrepidity.eu/running-phpunit-in-gitlab-through-docker/
+https://www.digitalocean.com/community/tutorials/how-to-set-up-xhprof-and-xhgui-for-profiling-php-applications-on-ubuntu-14-04?utm_medium=social&utm_source=twitter&utm_campaign=xhprof_xhgui_php_ubuntu_tut&utm_content=no_image
