@@ -123,3 +123,4 @@ https://www.youtube.com/watch?v=Tvj1fwLE9V8
 http://www.thetestroom.com/git-conflict-tutorial/
 http://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext
 https://www.sitepoint.com/disco-with-frameworks-and-design-patterns-a-fresh-look-at-dependency-injection/
+http://blog.intrepidity.eu/running-phpunit-in-gitlab-through-docker/
