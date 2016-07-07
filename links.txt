@@ -1,4 +1,5 @@
 http://www.thecodingmachine.com/psr-11-an-overview-of-interoperable-php-modules/
+https://www.reddit.com/r/PHP/comments/4p9c9p/common_interfaces_and_classes_i_use_in_an_app/
 https://www.oreilly.com/ideas/microservices-need-architects
 https://blog.sixeyed.com/semi-retirement-for-rest-apis-with-nginx-and-docker/
 http://blog.cloud66.com/9-crtitical-decisions-needed-to-run-docker-in-production/
