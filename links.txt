@@ -122,3 +122,4 @@ http://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-
 https://www.sitepoint.com/disco-with-frameworks-and-design-patterns-a-fresh-look-at-dependency-injection/
 http://blog.intrepidity.eu/running-phpunit-in-gitlab-through-docker/
 https://www.digitalocean.com/community/tutorials/how-to-set-up-xhprof-and-xhgui-for-profiling-php-applications-on-ubuntu-14-04
+https://www.reddit.com/r/PHP/comments/4pauyl/6_php_podcasts_worth_listening_to/
