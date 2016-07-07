@@ -1,4 +1,3 @@
-http://www.thecodingmachine.com/psr-11-an-overview-of-interoperable-php-modules/
 https://github.com/midorikocak/interfaces
 https://phpdelusions.net/pdo/mysqli_comparison
 https://www.oreilly.com/ideas/microservices-need-architects
