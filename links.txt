@@ -1,4 +1,3 @@
-https://blog.sixeyed.com/semi-retirement-for-rest-apis-with-nginx-and-docker/
 http://blog.cloud66.com/9-crtitical-decisions-needed-to-run-docker-in-production/
 http://eltonminetto.net/blog/2016/04/08/melhorando-a-performance-do-phpunit/
 http://dbpatterns.com/
