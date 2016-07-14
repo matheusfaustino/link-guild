@@ -1,4 +1,3 @@
-http://eltonminetto.net/blog/2016/04/08/melhorando-a-performance-do-phpunit/
 http://dbpatterns.com/
 http://logz.io/blog/elasticsearch-queries/
 http://paul-m-jones.com/archives/6310
