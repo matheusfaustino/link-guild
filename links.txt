@@ -1,4 +1,3 @@
-http://logz.io/blog/elasticsearch-queries/
 http://paul-m-jones.com/archives/6310
 https://github.com/snapshotpl/lazy-container
 https://nylas.com/blog/growing-up-with-mysql/
