@@ -1,4 +1,3 @@
-http://dbpatterns.com/
 http://logz.io/blog/elasticsearch-queries/
 http://paul-m-jones.com/archives/6310
 https://github.com/snapshotpl/lazy-container
