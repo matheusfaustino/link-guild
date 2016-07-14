@@ -1,4 +1,3 @@
-https://github.com/snapshotpl/lazy-container
 https://nylas.com/blog/growing-up-with-mysql/
 https://speakerdeck.com/cironunes/unit-testing-in-angular-2
 http://www.sitepoint.com/getting-started-react-jsx/
