@@ -114,3 +114,4 @@ https://gnugat.github.io/2016/06/29/mars-rover-landing.html
 https://www.youtube.com/watch?v=XGR4hwtRY2I
 https://hashnode.com/post/whats-the-best-way-to-get-started-with-php-in-2016-ciql4o97717b1aj53tt0ix26g
 https://blog.feryn.eu/type-errors-php-7
+https://dotdev.co/using-reducers-for-fun-and-profit-in-javascript-python-and-php-fdb9b0eb1fa5#.hrwkg8pwl
