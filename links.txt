@@ -112,3 +112,4 @@ https://www.digitalocean.com/community/tutorials/how-to-set-up-xhprof-and-xhgui-
 https://www.reddit.com/r/PHP/comments/4pauyl/6_php_podcasts_worth_listening_to/
 https://gnugat.github.io/2016/06/29/mars-rover-landing.html
 https://www.youtube.com/watch?v=XGR4hwtRY2I
+https://hashnode.com/post/whats-the-best-way-to-get-started-with-php-in-2016-ciql4o97717b1aj53tt0ix26g
