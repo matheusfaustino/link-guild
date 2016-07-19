@@ -118,3 +118,4 @@ https://dotdev.co/using-reducers-for-fun-and-profit-in-javascript-python-and-php
 http://martinfowler.com/articles/serverless.html
 http://code.tutsplus.com/tutorials/lets-tdd-a-simple-app-in-php--net-26186
 http://www.slideshare.net/guilhermeblanco/php-para-adultos-clean-code-e-object-calisthenics
+http://www.slideshare.net/rdohms/bettercode-phpbenelux212alternate/15-List_is_more_readable_the
