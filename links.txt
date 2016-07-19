@@ -1,4 +1,3 @@
-https://akrabat.com/using-testing-eloquent-in-slim-framework/
 https://github.com/phpfmt/fmt
 https://www.linux.com/learn/how-use-docker-machine-create-swarm-cluster
 https://nikic.github.io/2012/12/22/Cooperative-multitasking-using-coroutines-in-PHP.html
