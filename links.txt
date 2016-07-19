@@ -116,3 +116,4 @@ https://hashnode.com/post/whats-the-best-way-to-get-started-with-php-in-2016-ciq
 https://blog.feryn.eu/type-errors-php-7
 https://dotdev.co/using-reducers-for-fun-and-profit-in-javascript-python-and-php-fdb9b0eb1fa5#.hrwkg8pwl
 http://martinfowler.com/articles/serverless.html
+http://code.tutsplus.com/tutorials/lets-tdd-a-simple-app-in-php--net-26186
