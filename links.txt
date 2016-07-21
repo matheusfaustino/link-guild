@@ -1,3 +1,4 @@
+https://www.reddit.com/r/PHP/comments/4tfbdx/httpoxy_a_remotely_exploitable_vulnerability_in/
 https://storify.com/mwop/zf-components
 https://mwop.net/blog/2016-04-26-on-locators.html
 http://arr.gr/blog/2014/05/php-memory-usage-unnecessary-string-concatenation/
