@@ -116,3 +116,4 @@ http://martinfowler.com/articles/serverless.html
 http://code.tutsplus.com/tutorials/lets-tdd-a-simple-app-in-php--net-26186
 http://www.slideshare.net/guilhermeblanco/php-para-adultos-clean-code-e-object-calisthenics
 http://www.slideshare.net/rdohms/bettercode-phpbenelux212alternate/15-List_is_more_readable_the
+https://www.reddit.com/r/PHP/comments/4tkx2v/behat_structure_your_functional_tests/
