@@ -118,3 +118,4 @@ http://www.slideshare.net/rdohms/bettercode-phpbenelux212alternate/15-List_is_mo
 https://www.reddit.com/r/PHP/comments/4tkx2v/behat_structure_your_functional_tests/
 https://www.sitepoint.com/testing-your-tests-who-watches-the-watchmen/
 http://symfony.com/blog/new-in-symfony-3-2-workflow-component
+http://blog.eleven-labs.com/en/behat-structure-functional-tests/
