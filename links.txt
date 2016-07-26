@@ -1,3 +1,4 @@
+https://gnugat.github.io/2016/04/27/event-driven-architecture.html
 https://murze.be/2016/04/front-end-performance-dark-side/
 https://vimeo.com/147806338
 https://speakerdeck.com/fabpot/a-monorepo-vs-manyrepos
