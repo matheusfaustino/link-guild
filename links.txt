@@ -117,3 +117,4 @@ http://symfony.com/blog/new-in-symfony-3-2-workflow-component
 http://blog.eleven-labs.com/en/behat-structure-functional-tests/
 https://www.reddit.com/r/PHP/comments/4t9adj/the_liskov_substitution_principle/
 https://www.codecourse.com/library/lessons/arrays-are-everything/array-basics
+https://medium.com/@steveazz/setting-up-grumphp-with-laravel-202f158e9862#.s4rxctta8
