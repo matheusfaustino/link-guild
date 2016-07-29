@@ -123,3 +123,4 @@ https://blog.garage-coding.com/2016/07/21/check-fields-might-overflow.html
 https://yuloh.github.io/
 https://ma.ttias.be/bash-loop-first-step-automation-linux/
 https://hannesvdvreken.com/2015/05/12/stream-progress/
+https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53#.30vwbhz70
